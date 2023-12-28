@@ -1,15 +1,15 @@
 # link preview :
 
-https://architecture-landing-page.vercel.app/
+https://karimashour.github.io/Memory-Card-Game/
 
 <img src="image.png"/>
 
 # tools :
 - html
-- tailwind css
-- react.js
+- css
+- javascript
 
 
 
 # features
-- Architecture landing page using Tailwind CSS and React JS
+- simple memory card game 
